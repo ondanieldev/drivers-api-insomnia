@@ -1,0 +1,30 @@
+_id: req_68fa15ca8a814c7dab7d64ffdf39d126
+type: Request
+parentId: fld_3a730131fa014991a368849ae488b195
+modified: 1719430912045
+created: 1719430370264
+url: "{{ _.api.baseUrl }}/automobile/0792395c-72be-4574-b0d6-15ce225bb71f"
+name: Update automobile
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"brand": "Honda",
+    	"color": "white",
+    	"licensePlate": "XYZ-6789"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1718905463706.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

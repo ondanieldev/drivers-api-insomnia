@@ -1,0 +1,21 @@
+_id: req_7eed42dd08af4f38971807052e9ef2ad
+type: Request
+parentId: fld_3a730131fa014991a368849ae488b195
+modified: 1719433721435
+created: 1719433637766
+url: "{{ _.api.baseUrl }}/automobile/4e8d3b9b-90f5-41a6-9d9c-51855c8334c4"
+name: Delete automobile
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1718650558559.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

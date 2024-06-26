@@ -1,0 +1,31 @@
+_id: req_33e1c9c24bd34f9c8f1764047ba97312
+type: Request
+parentId: fld_3a730131fa014991a368849ae488b195
+modified: 1719433345933
+created: 1719433321653
+url: "{{ _.api.baseUrl }}/automobile/a6624447-01ae-4bb3-808a-27079b5b491c"
+name: Read automobile by id
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_2eba49fa19c44208af856ad9bd1d2455
+    name: brand
+    value: Honda
+    description: ""
+    disabled: true
+  - id: pair_d0f0184fe5ac48849a1c8ea81402cc5e
+    name: color
+    value: PurplE
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1719287821427.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

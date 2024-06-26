@@ -1,0 +1,30 @@
+_id: req_d66d0b2a1dc44ad1bed8e08045bb0aab
+type: Request
+parentId: fld_3a730131fa014991a368849ae488b195
+modified: 1719432658661
+created: 1719415274001
+url: "{{ _.api.baseUrl }}/automobile"
+name: Create automobile
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"brand": "Honda",
+    	"color": "black",
+    	"licensePlate": "ABC-1234"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1719415274001
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
