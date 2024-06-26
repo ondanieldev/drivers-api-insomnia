@@ -1,0 +1,28 @@
+_id: req_3296529dbafa441499685c3e4449ec20
+type: Request
+parentId: fld_f7ccb0b446384fda869de6d30e1706ff
+modified: 1719435434294
+created: 1719435067555
+url: "{{ _.api.baseUrl }}/drivers/d8397103-a538-400e-b5ef-3bea1debec79"
+name: Update driver
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Jane Doe 3"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1718905463706.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

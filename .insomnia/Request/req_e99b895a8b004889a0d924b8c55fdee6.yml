@@ -1,0 +1,21 @@
+_id: req_e99b895a8b004889a0d924b8c55fdee6
+type: Request
+parentId: fld_f7ccb0b446384fda869de6d30e1706ff
+modified: 1719435420059
+created: 1719435067560
+url: "{{ _.api.baseUrl }}/drivers/fa63922d-234a-4e53-a275-1feba9337f45"
+name: Delete driver
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1718650558559.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

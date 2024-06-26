@@ -1,0 +1,31 @@
+_id: req_6d8bb3ce84ab4e899f01aed8db2d8ab8
+type: Request
+parentId: fld_f7ccb0b446384fda869de6d30e1706ff
+modified: 1719435388303
+created: 1719435067558
+url: "{{ _.api.baseUrl }}/drivers/fa63922d-234a-4e53-a275-1feba9337f45"
+name: Read driver by id
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_2eba49fa19c44208af856ad9bd1d2455
+    name: brand
+    value: Honda
+    description: ""
+    disabled: true
+  - id: pair_d0f0184fe5ac48849a1c8ea81402cc5e
+    name: color
+    value: PurplE
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1719287821427.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

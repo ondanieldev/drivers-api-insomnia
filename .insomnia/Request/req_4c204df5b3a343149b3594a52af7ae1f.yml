@@ -1,0 +1,28 @@
+_id: req_4c204df5b3a343149b3594a52af7ae1f
+type: Request
+parentId: fld_f7ccb0b446384fda869de6d30e1706ff
+modified: 1719435213746
+created: 1719435067552
+url: "{{ _.api.baseUrl }}/drivers"
+name: Create driver
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "John Doe 3"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1719415274001
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
